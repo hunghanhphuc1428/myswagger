@@ -5,7 +5,7 @@
     "title": "REST API",
     "description": ""
   },
-  "host": "https://swaggernodejs.azurewebsites.net/",
+  "host": "swaggernodejs.azurewebsites.net",
   "basePath": "/",
   "tags": [],
   "schemes": [
