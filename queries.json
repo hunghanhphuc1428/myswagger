@@ -1,0 +1,6 @@
+{
+    "getAllData" : "SELECT * FROM PRODUCTTB",
+    "addNewData" : "INSERT INTO [PRODUCTTB] (name, image) VALUES (@name,@image)",
+    "updateData" : "UPDATE  [PRODUCTTB] SET name = @name WHERE id = @id",
+    "deleteData" : "DELETE FROM  [PRODUCTTB] WHERE id = @id"
+}
